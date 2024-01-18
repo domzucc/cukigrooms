@@ -53,6 +53,12 @@ window.addEventListener('DOMContentLoaded', event => {
 
      // Activate SimpleLightbox plugin for portfolio items
     new SimpleLightbox({
-        elements: '#gallery a.gallery-box' });
+        elements: '#galerija a.gallery-box',
+    });
+
+
+
 
 });
+
+
